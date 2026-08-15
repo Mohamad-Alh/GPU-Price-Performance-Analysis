@@ -1,4 +1,4 @@
-# 🖥️ GPU Price-to-Performance Analysis
+# GPU Price-to-Performance Analysis
 
 Which graphics cards give you the most performance per dollar — and how does that value shift between NVIDIA and AMD, across price tiers, and over time?
 
@@ -124,7 +124,7 @@ Full attribution in [`data/README.md`](data/README.md). Used here for non-commer
 **Mohamad Abdulkarim Alhamawi**
 IT Maintenance Technician transitioning into Data Analytics | Jeddah, Saudi Arabia
 📧 mohamad.abdulkarim.alhamwi@gmail.com
- | 🔗 [My linkedin:](https://www.linkedin.com/in/mohamadalhamawi/)
+ | 🔗 [https://www.linkedin.com/in/mohamadalhamawi/](https://www.linkedin.com/in/mohamadalhamawi/)
 
 ---
 *If you find this project useful, feel free to star the repo!*
