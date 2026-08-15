@@ -8,7 +8,7 @@ Which graphics cards give you the most performance per dollar — and how does t
 ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes 2,300+ GPUs (graphics cards) released between 2009 and 2022, combining
 benchmark scores (PassMark G3Dmark) with retail prices to answer questions a PC retailer, IT
@@ -23,7 +23,7 @@ I built this as a portfolio project while transitioning from **IT Support/Mainte
 Analytics** — it reflects both my hands-on hardware background and the analytical workflow
 (cleaning → EDA → visualization → interactive tool) expected in a data analyst role.
 
-## 🔑 Key Insights
+##  Key Insights
 
 | Question | Finding |
 |---|---|
@@ -46,14 +46,14 @@ Analytics** — it reflects both my hands-on hardware background and the analyti
 </tr>
 </table>
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Python** — pandas for data cleaning and feature engineering
 - **Matplotlib / Seaborn** — static charts for the notebook and README
 - **Jupyter Notebook** — the full analysis walkthrough, from raw data to conclusions
 - **Streamlit** — an interactive dashboard to filter GPUs by brand, price, and release year
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 pc-hardware-project/
@@ -73,7 +73,7 @@ pc-hardware-project/
 └── README.md
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # 1. Clone the repo and install dependencies
@@ -91,7 +91,7 @@ jupyter notebook notebooks/gpu_price_value_analysis.ipynb
 streamlit run dashboard/app.py
 ```
 
-## 🔍 Methodology
+##  Methodology
 
 1. **Data cleaning** — of the 2,317 raw records, ~84% were missing price data (older/niche cards
    PassMark benchmarked but that were never assigned a listed price) and were excluded, leaving
@@ -113,17 +113,18 @@ streamlit run dashboard/app.py
   and compare regional pricing against this global benchmark baseline — directly relevant to the
   PC hardware resale market in Saudi Arabia.
 
-## 📄 Data Source
+##  Data Source
 
 GPU specifications, benchmark scores, and prices via [gradedSystem/GPU_Price_Specs](https://github.com/gradedSystem/GPU_Price_Specs)
 (GitHub), originally scraped from PC Builder and cross-referenced with a public Kaggle dataset.
 Full attribution in [`data/README.md`](data/README.md). Used here for non-commercial, educational purposes.
 
-## 👤 Author
+##  Author
 
 **Mohamad Abdulkarim Alhamawi**
 IT Maintenance Technician transitioning into Data Analytics | Jeddah, Saudi Arabia
-📧 Add your email | 🔗 Add your LinkedIn
+📧 mohamad.abdulkarim.alhamwi@gmail.com
+ | 🔗 [My linkedin:](https://www.linkedin.com/in/mohamadalhamawi/)
 
 ---
-*If you find this project useful, feel free to ⭐ star the repo!*
+*If you find this project useful, feel free to star the repo!*
